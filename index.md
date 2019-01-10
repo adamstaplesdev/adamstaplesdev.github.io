@@ -1,6 +1,6 @@
 ## About Me
 
-[Other Work](other_work.md)
+[About Me](index.md) | [Other Work](other_work.md)
 
 ## Reference
 
