@@ -1,4 +1,4 @@
-<img align="right" src="compressed_square_profile.jpg" />
+<img align="right" src="small_compressed_profile.jpg" />
 
 ## About Me
 
