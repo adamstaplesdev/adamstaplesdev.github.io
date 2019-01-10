@@ -1,8 +1,3 @@
----
-title: Adam Staples
-layout: post
----
-
 ## Code
 
 [GitHub](github.com/adamstaplesdev)
